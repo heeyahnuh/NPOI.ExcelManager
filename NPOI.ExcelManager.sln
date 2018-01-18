@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI.ExcelManager", "NPOI.ExcelManager\NPOI.ExcelManager.csproj", "{BC8A7100-7660-4EFF-B818-BD48CF4254DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI.ExcelManager.Test", "NPOI.ExcelManager.Test\NPOI.ExcelManager.Test.csproj", "{7DF69E55-3E8C-4F4D-A6CE-3785AE40F905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8A7100-7660-4EFF-B818-BD48CF4254DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8A7100-7660-4EFF-B818-BD48CF4254DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8A7100-7660-4EFF-B818-BD48CF4254DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8A7100-7660-4EFF-B818-BD48CF4254DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF69E55-3E8C-4F4D-A6CE-3785AE40F905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF69E55-3E8C-4F4D-A6CE-3785AE40F905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF69E55-3E8C-4F4D-A6CE-3785AE40F905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF69E55-3E8C-4F4D-A6CE-3785AE40F905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
